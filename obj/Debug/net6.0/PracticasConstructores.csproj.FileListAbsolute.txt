@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\PracticasConstructores\bin\Debug\net6.0\PracticasConstructores.exe
+C:\Users\vazqu\source\repos\PracticasConstructores\bin\Debug\net6.0\PracticasConstructores.deps.json
+C:\Users\vazqu\source\repos\PracticasConstructores\bin\Debug\net6.0\PracticasConstructores.runtimeconfig.json
+C:\Users\vazqu\source\repos\PracticasConstructores\bin\Debug\net6.0\PracticasConstructores.dll
+C:\Users\vazqu\source\repos\PracticasConstructores\bin\Debug\net6.0\PracticasConstructores.pdb
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.dll
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\refint\PracticasConstructores.dll
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.pdb
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\PracticasConstructores.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\PracticasConstructores\obj\Debug\net6.0\ref\PracticasConstructores.dll
